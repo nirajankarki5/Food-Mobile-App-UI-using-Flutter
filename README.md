@@ -9,3 +9,5 @@
 
 ## Details Page
 <img src="screenshots/5.png" width="300">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="screenshots/6.png" width="300">
+
+* Design Inspiration: https://dribbble.com/shots/15272476-Food-Mobile-App
