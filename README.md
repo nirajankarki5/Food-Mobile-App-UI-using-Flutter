@@ -1,6 +1,8 @@
 # Food-Mobile-App-UI-using-Flutter
 
 ## Screenshots
+
+<img src="screenshots/screenshot.png">
 ## Home Page
 <img src="screenshots/1.png" width="300">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="screenshots/2.png" width="300">
 
