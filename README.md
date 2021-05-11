@@ -3,13 +3,9 @@
 ## Screenshots
 
 <img src="screenshots/screenshot.png">
-## Home Page
-<img src="screenshots/1.png" width="300">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="screenshots/2.png" width="300">
 
-## Tab Bar
-<img src="screenshots/3.png" width="300"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="screenshots/4.png" width="300">
+- More screenshots can be found on Screenshots folder
 
-## Details Page
-<img src="screenshots/5.png" width="300">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="screenshots/6.png" width="300">
+- I have implemented TabBar, Search Bar
 
 * Design Inspiration: https://dribbble.com/shots/15272476-Food-Mobile-App
